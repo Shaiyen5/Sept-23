@@ -51,7 +51,7 @@ I am a **Machine Learning Engineer** and Based on my experience, in the computin
 <div align="center">
 
 
-<a  href="https://www.linkedin.com/in/phacesystems-50b092147/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a  href="https://www.linkedin.com/in/shaiyen-swomen-a36a97245/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 <a href="https://www.twitter.com/Shaiyen5" target="_blank"><img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white&alt=twitter" /></a>
 <a href="mailto:shaiyenswomen@gmail.com"><img  alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
